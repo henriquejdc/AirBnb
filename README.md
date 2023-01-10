@@ -51,7 +51,7 @@ python manage.py makemessages --locale pt_BR
 Change to pt-br on settings:
 LANGUAGE_CODE= 'pt-BT'
 
-Obs: Não traduzi.
+Obs: Não traduzi - Poderia se usar o Poedit. Deixei assim para futuras traduções.
 ```
 
 ### Run: 
@@ -82,7 +82,6 @@ Use endpoint /auth/signup/
 Before use /auth/jwt/create/ 
 
 Now you have your access_token and refresh_token
-
 ```
 
 ### Use Authenticate Token: 
