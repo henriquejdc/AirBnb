@@ -1,0 +1,35 @@
+[
+{
+    "model": "adverts.advert",
+    "pk": 1,
+    "fields": {
+        "created_at": "2023-01-10T20:36:01.070Z",
+        "updated_at": "2023-01-10T20:36:01.070Z",
+        "platform": "AirBnb",
+        "platform_tax": "120.00",
+        "property": 2
+    }
+},
+{
+    "model": "adverts.advert",
+    "pk": 2,
+    "fields": {
+        "created_at": "2023-01-10T20:53:40.282Z",
+        "updated_at": "2023-01-10T20:53:40.282Z",
+        "platform": "Mercado Livre",
+        "platform_tax": "20.00",
+        "property": 5
+    }
+},
+{
+    "model": "adverts.advert",
+    "pk": 3,
+    "fields": {
+        "created_at": "2023-01-10T20:53:50.768Z",
+        "updated_at": "2023-01-10T20:53:50.768Z",
+        "platform": "Hotel Vago",
+        "platform_tax": "50.00",
+        "property": 4
+    }
+}
+]

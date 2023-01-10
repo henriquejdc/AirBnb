@@ -1,0 +1,67 @@
+[
+{
+    "model": "properties.property",
+    "pk": 2,
+    "fields": {
+        "created_at": "2023-01-10T18:27:31.257Z",
+        "updated_at": "2023-01-10T18:38:22.183Z",
+        "activated_date": "2023-01-10T18:27:21Z",
+        "cleaning_value": "120.00",
+        "accepts_animals": true,
+        "max_number_guests": 2,
+        "bathrooms": 1
+    }
+},
+{
+    "model": "properties.property",
+    "pk": 3,
+    "fields": {
+        "created_at": "2023-01-10T20:52:42.925Z",
+        "updated_at": "2023-01-10T20:52:42.925Z",
+        "activated_date": "2023-01-10T20:52:35Z",
+        "cleaning_value": "500.00",
+        "accepts_animals": false,
+        "max_number_guests": 5,
+        "bathrooms": 3
+    }
+},
+{
+    "model": "properties.property",
+    "pk": 4,
+    "fields": {
+        "created_at": "2023-01-10T20:52:54.056Z",
+        "updated_at": "2023-01-10T20:52:54.056Z",
+        "activated_date": "2023-01-10T20:52:50Z",
+        "cleaning_value": "100.00",
+        "accepts_animals": true,
+        "max_number_guests": 2,
+        "bathrooms": 1
+    }
+},
+{
+    "model": "properties.property",
+    "pk": 5,
+    "fields": {
+        "created_at": "2023-01-10T20:53:07.292Z",
+        "updated_at": "2023-01-10T20:53:07.292Z",
+        "activated_date": "2023-01-10T20:53:04Z",
+        "cleaning_value": "200.00",
+        "accepts_animals": false,
+        "max_number_guests": 3,
+        "bathrooms": 2
+    }
+},
+{
+    "model": "properties.property",
+    "pk": 6,
+    "fields": {
+        "created_at": "2023-01-10T20:53:17.417Z",
+        "updated_at": "2023-01-10T20:53:17.417Z",
+        "activated_date": "2023-01-10T20:53:16Z",
+        "cleaning_value": "400.00",
+        "accepts_animals": true,
+        "max_number_guests": 4,
+        "bathrooms": 2
+    }
+}
+]

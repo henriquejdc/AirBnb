@@ -1,0 +1,122 @@
+[
+{
+    "model": "reservations.reservation",
+    "pk": 2,
+    "fields": {
+        "created_at": "2023-01-10T20:43:33.206Z",
+        "updated_at": "2023-01-10T20:43:33.206Z",
+        "code": "YuRpVVF9C2ZPBjwlQUkb",
+        "checkin_date": "2023-01-10T20:43:26Z",
+        "checkout_date": "2023-01-10T20:43:29Z",
+        "price": "132.00",
+        "comment": "",
+        "number_guests": 1,
+        "advert": 1
+    }
+},
+{
+    "model": "reservations.reservation",
+    "pk": 3,
+    "fields": {
+        "created_at": "2023-01-10T20:54:55.470Z",
+        "updated_at": "2023-01-10T20:54:55.471Z",
+        "code": "MrerRVmre876LfDnqzvr",
+        "checkin_date": "2023-01-10T20:53:56Z",
+        "checkout_date": null,
+        "price": "500.00",
+        "comment": "",
+        "number_guests": 3,
+        "advert": 2
+    }
+},
+{
+    "model": "reservations.reservation",
+    "pk": 4,
+    "fields": {
+        "created_at": "2023-01-10T20:55:48.929Z",
+        "updated_at": "2023-01-10T20:55:48.929Z",
+        "code": "JpWiQK0Y6MllYqNNgGpO",
+        "checkin_date": null,
+        "checkout_date": null,
+        "price": "200.00",
+        "comment": "",
+        "number_guests": 4,
+        "advert": 3
+    }
+},
+{
+    "model": "reservations.reservation",
+    "pk": 5,
+    "fields": {
+        "created_at": "2023-01-10T21:00:54.775Z",
+        "updated_at": "2023-01-10T21:09:59.680Z",
+        "code": "qa1VUvrWXcHu6dZQXtmW",
+        "checkin_date": "2023-01-10T21:09:52Z",
+        "checkout_date": "2023-01-10T21:09:57Z",
+        "price": "5000.00",
+        "comment": "",
+        "number_guests": 3,
+        "advert": 1
+    }
+},
+{
+    "model": "reservations.reservation",
+    "pk": 6,
+    "fields": {
+        "created_at": "2023-01-10T21:10:31.955Z",
+        "updated_at": "2023-01-10T21:10:31.955Z",
+        "code": "ujjAQjp4MFvFnwOQnH23",
+        "checkin_date": "2023-01-10T21:10:03Z",
+        "checkout_date": null,
+        "price": "7000.00",
+        "comment": "",
+        "number_guests": 3,
+        "advert": 2
+    }
+},
+{
+    "model": "reservations.reservation",
+    "pk": 7,
+    "fields": {
+        "created_at": "2023-01-10T21:11:03.641Z",
+        "updated_at": "2023-01-10T21:11:03.641Z",
+        "code": "8ZFNHuUblRfzof5MM31Z",
+        "checkin_date": "2023-01-10T21:10:56Z",
+        "checkout_date": "2023-01-10T21:10:57Z",
+        "price": "750.00",
+        "comment": "",
+        "number_guests": 3,
+        "advert": 2
+    }
+},
+{
+    "model": "reservations.reservation",
+    "pk": 8,
+    "fields": {
+        "created_at": "2023-01-10T21:11:12.594Z",
+        "updated_at": "2023-01-10T21:11:12.594Z",
+        "code": "iwgyhrxk9TFJiU4iLTwt",
+        "checkin_date": null,
+        "checkout_date": null,
+        "price": "800.00",
+        "comment": "",
+        "number_guests": 1,
+        "advert": 1
+    }
+},
+{
+    "model": "reservations.reservation",
+    "pk": 9,
+    "fields": {
+        "created_at": "2023-01-10T21:11:30.792Z",
+        "updated_at": "2023-01-10T21:11:30.792Z",
+        "code": "7eW7UHbPOPFGvxto88D3",
+        "checkin_date": "2023-01-10T21:11:23Z",
+        "checkout_date": null,
+        "price": "900.00",
+        "comment": "Teste",
+        "number_guests": 1,
+        "advert": 2
+    }
+}
+]
