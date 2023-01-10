@@ -1,4 +1,4 @@
-### Basic Airbnb RestAPI
+### Resevartion System RestAPI
 
 ### Create Super User / Login: 
 ```
