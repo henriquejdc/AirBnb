@@ -1,5 +1,18 @@
 ### Basic Airbnb RestAPI
 
+### Create Super User / Login: 
+```
+python manage.py createsuperuser 
+
+To login use email and password
+```
+
+### Docs: 
+```
+/docs
+/docs/redoc
+```
+
 ### Envoriment: 
 ```
 python3 -m venv venv 
@@ -63,7 +76,16 @@ python manage.py dumpdata {app} --indent 4 > seed/{app}.json
 bash migrate_and_seed.sh
 ```
 
-### Authenticate Token: 
+### Create User and Access Token: 
+```
+Use endpoint /auth/signup/ 
+Before use /auth/jwt/create/ 
+
+Now you have your access_token and refresh_token
+
+```
+
+### Use Authenticate Token: 
 ```
 Bearer {access_token}
 ```
