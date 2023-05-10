@@ -63,7 +63,7 @@ class BaseAPITestCase(APITestCase):
 
         self.user = User.objects.create(
             username='usuario1',
-            email='usuario1@neoprospecta.com',
+            email='usuario1@gmail.com',
             is_superuser=True,
         )
         self.user.set_password('123456')
